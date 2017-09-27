@@ -1,2 +1,2 @@
 **Instructions**  
-run ``npm parser.js``
+run ``node parser.js``
